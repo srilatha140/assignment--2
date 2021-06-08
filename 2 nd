@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+	p{
+	color: red;
+	}
+</style>
+</head>
+<body>
+	<img src="copyrights.png">
+	<p>srilatha</p>
+</body>
+</html>
